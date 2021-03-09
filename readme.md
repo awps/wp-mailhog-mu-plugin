@@ -13,7 +13,7 @@ composer require awps/wp-mailhog-mu-plugin --dev
 ```
 "extra": {
     "installer-paths": {
-      ".srv/wordpress/wp-content/plugins/{$name}/": [ "type:wordpress-muplugin"]
+      ".srv/wordpress/wp-content/mu-plugins/{$name}/": [ "type:wordpress-muplugin"]
     }
 },
 ```
