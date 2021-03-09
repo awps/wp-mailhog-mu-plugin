@@ -1,6 +1,6 @@
 {
   "name": "mailhog-mu-plugin",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "WordPress Mailhog MU Plugin.  Designed to be used in tandem with docker-compose.",
   "main": "wp-mailhog-mu-plugin.php",
   "scripts": {
