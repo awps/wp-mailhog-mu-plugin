@@ -1,0 +1,9 @@
+{
+  "name": "awps/wp-mailhog-mu-plugin",
+  "description": "WordPress Mailhog MU Plugin. Designed to be used in tandem with docker-compose",
+  "license": "GPL-2.0+",
+  "type": "wordpress-muplugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
